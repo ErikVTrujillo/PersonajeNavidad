@@ -35,8 +35,7 @@
 
 
 ## Prototipo de dibujo
-![Uploading WhatsApp Image 2023-11-09 at 8.03.40 PM.jpeg…]()
-
+![WhatsApp Image 2023-11-09 at 8 03 40 PM (1)](https://github.com/ErikVTrujillo/PersonajeNavidad/assets/116902387/2ee8752b-441e-4380-8745-e56b37825f89)
 
 ## Comunicación
 - El personaje movera su brazo reartiendo pan
