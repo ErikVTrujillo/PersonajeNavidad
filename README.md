@@ -31,10 +31,12 @@
 |Arduino IDE|2.0|Software Libre|
 
 ## Conexión en Wokwi
-"C:\Users\Estrella\Documents\GDS0543\Principios de IOT\Conexion.jfif"
+![WhatsApp Image 2023-11-09 at 10 41 55 PM](https://github.com/ErikVTrujillo/PersonajeNavidad/assets/116902387/c247c0c8-9356-4d4c-bf7f-8f167c2d25bb)
+
 
 ## Prototipo de dibujo
-"C:\Users\Estrella\Documents\GDS0543\Principios de IOT\Imagen.jfif"
+![Uploading WhatsApp Image 2023-11-09 at 8.03.40 PM.jpeg…]()
+
 
 ## Comunicación
 - El personaje movera su brazo reartiendo pan
